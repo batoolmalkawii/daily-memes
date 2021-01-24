@@ -1,4 +1,4 @@
-*PR*: https://github.com/batoolmalkawii/daily-xkcd/pull/1
+*PR*: 
 
 # Basic CSS example
 
