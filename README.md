@@ -1,4 +1,10 @@
-*PR*: https://github.com/batoolmalkawii/daily-memes/pull/1
+*PR*: https://github.com/batoolmalkawii/daily-memes/pull/2
+
+*Deployed Link:* 
+
+* daily-memes.batoolmalkawii.vercel.app
+* daily-memes-git-master.batoolmalkawii.vercel.app
+* daily-memes.vercel.app
 
 # Basic CSS example
 
