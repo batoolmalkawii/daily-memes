@@ -1,4 +1,4 @@
-*PR*: 
+*PR*: https://github.com/batoolmalkawii/daily-memes/pull/1
 
 # Basic CSS example
 
